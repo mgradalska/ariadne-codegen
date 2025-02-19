@@ -45,7 +45,7 @@ dev = [
   "freezegun",
   "requests-toolbelt",
 ]
-subscriptions = ["websockets~=11.0"]
+subscriptions = ["websockets>=14.2"]
 opentelemetry = ["opentelemetry-api"]
 
 [project.scripts]
